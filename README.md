@@ -78,6 +78,7 @@ print(predictions)
 
 ---
 🛠 **Developed By:** Chetan Patil 
+
 📧 Contact:chetan.patil1397@gmail.com  
 🚀 Happy Learning! 🚀
 
